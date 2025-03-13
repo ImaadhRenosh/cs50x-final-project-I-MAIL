@@ -1,4 +1,4 @@
-# cs50x-final-project
+<img width="332" alt="Screenshot 2025-03-13 at 05 47 53" src="https://github.com/user-attachments/assets/6f67bb4d-8e26-4648-837b-b4a921433b33" /># cs50x-final-project
 A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution
 
 
@@ -50,11 +50,23 @@ This project took some inspiration from the week 9, finance project., in terms o
 
 In the app.py file, initially the vital imports are made, including the flux and mandatory libraries. In the first few lines of code, the flux activation is generated, and a constructor is stored in the app variable. Another task done is the auto reloading of templates and session management using the file system, session has been configured to use the SQL Lite database.
 
+<img width="621" alt="Screenshot 2025-03-13 at 05 03 18" src="https://github.com/user-attachments/assets/72a9eca8-e90b-4a1c-994f-1d5bed16beb9" />
+
+
+
 The after-app request route is used to ensure that responses are not caught, after approval we can define various routes. This route shows all received emails. furthermore, there are various other routes, each associated with a function to the corresponding request. Inside routes, there are database queries, which can be utilized to store data as required.
+
+<img width="736" alt="Screenshot 2025-03-13 at 05 23 42" src="https://github.com/user-attachments/assets/677680ee-49bb-41e5-86f4-04942f275a07" />
+
+
 
 The HTML Templates are rendered via the render-template function. That's everything to do with the app.py file.
 
-The layout.html file holds the backbone structure and style of the webpage with the navigation bar, main content area as well as the footer. ALL the child templates can extend the alyout.html file and fill in the dynamic content as needed, using this block {% block title %}.
+The layout.html file holds the backbone structure and style of the webpage with the navigation bar, main content area as well as the footer. ALL the child templates can extend the layout.html file and fill in the dynamic content as needed, using this block {% block title %}.
+
+<img width="1128" alt="Screenshot 2025-03-13 at 05 28 35" src="https://github.com/user-attachments/assets/5168e254-ef9e-44d5-b577-eac825c1ecda" />
+
+
 
 To wrap it all up, it’s been an honour to learn from the some of the best teachers in the world, I would like to thank David.J.Malan, Dug Lloyd and all the corresponding teachers and staff for their exemplary performance. I wish to indulge in more courses like this in the future, it’s been a pleasure learning CS50.
 
@@ -65,8 +77,20 @@ After launching the application, you can:
 
 Navigate through the interface using the provided menu.
 Interact with various features designed to solve the problem set.
-[Add any additional usage instructions specific to your project.]
 
+
+<img width="1512" alt="Screenshot 2025-03-13 at 05 31 15" src="https://github.com/user-attachments/assets/8ac82f68-da8e-4de0-ba9b-447955caf3c6" />
+
+<img width="148" alt="Screenshot 2025-03-13 at 05 32 39" src="https://github.com/user-attachments/assets/5ca23136-125c-4790-a46e-eaf96c699bed" />
+
+<img width="1510" alt="Screenshot 2025-03-13 at 05 32 00" src="https://github.com/user-attachments/assets/49fc717b-60fd-4020-b9f5-e96afa23e165" />
+
+
+
+
+<img width="362" alt="Screenshot 2025-03-13 at 05 42 03" src="https://github.com/user-attachments/assets/dc5ee1c1-66cb-406a-b6bf-d51dead701f7" />
+
+<img width="332" alt="Screenshot 2025-03-13 at 05 47 53" src="https://github.com/user-attachments/assets/e231efeb-1805-4513-b884-0445a11cf6ae" />
 
 
 
