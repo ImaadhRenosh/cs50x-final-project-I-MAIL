@@ -1,7 +1,3 @@
-Here is your README file, enhanced for clarity and visual appeal:
-
----
-
 # A Comprehensive Full-Stack Application Integrating Core CS Concepts to Deliver a Scalable Solution
 
 ## Overview
@@ -59,13 +55,13 @@ Follow these steps to set up and run the project locally:
   ![Screenshot 2025-03-13 at 05 32 00](https://github.com/user-attachments/assets/49fc717b-60fd-4020-b9f5-e96afa23e165)
   - Further highlights the user interface and the ease of navigation within the application.
 
-- **Screenshot 7**:
-  ![Screenshot 2025-03-13 at 05 47 53](https://github.com/user-attachments/assets/e231efeb-1805-4513-b884-0445a11cf6ae)
-  - Demonstrates the application's mobile responsiveness and adaptability.
-
 - **Screenshot 8**:
   ![Screenshot 2025-03-13 at 05 42 03](https://github.com/user-attachments/assets/dc5ee1c1-66cb-406a-b6bf-d51dead701f7)
   - Showcases the application's performance and user experience on different devices.
+
+- **Screenshot 7**:
+  ![Screenshot 2025-03-13 at 05 47 53](https://github.com/user-attachments/assets/e231efeb-1805-4513-b884-0445a11cf6ae)
+  - Demonstrates the application's mobile responsiveness and adaptability.
 
 ## Usage
 After launching the application, you can:
@@ -86,7 +82,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or suggestions, feel free to reach out:
 - **Email:** imaadhrenosh@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/yourprofile)
-
----
-
-Feel free to copy and paste this into your README file, and make any additional adjustments as needed!
