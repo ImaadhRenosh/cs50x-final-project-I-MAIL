@@ -87,10 +87,10 @@ Interact with various features designed to solve the problem set.
 
 
 
+<img width="332" alt="Screenshot 2025-03-13 at 05 47 53" src="https://github.com/user-attachments/assets/e231efeb-1805-4513-b884-0445a11cf6ae" />
 
 <img width="362" alt="Screenshot 2025-03-13 at 05 42 03" src="https://github.com/user-attachments/assets/dc5ee1c1-66cb-406a-b6bf-d51dead701f7" />
 
-<img width="332" alt="Screenshot 2025-03-13 at 05 47 53" src="https://github.com/user-attachments/assets/e231efeb-1805-4513-b884-0445a11cf6ae" />
 
 
 
