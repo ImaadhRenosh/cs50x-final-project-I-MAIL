@@ -1,5 +1,17 @@
 # A Comprehensive Full-Stack Application Integrating Core CS Concepts to Deliver a Scalable Solution
 
+## Table of Contents
+- [Overview](#overview)
+- [Technologies Used](#technologies-used)
+- [Prerequisites](#prerequisites)
+- [Installation & How to Run](#installation--how-to-run)
+- [Screenshots / Demo](#screenshots--demo)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 ## Overview
 This repository contains my final project for CS50’s Final Problem Set. The project is a full-stack application that integrates core computer science concepts to solve a real-world problem.
 
@@ -8,6 +20,11 @@ This repository contains my final project for CS50’s Final Problem Set. The pr
 - **Frameworks & Libraries:** Flask
 - **Front-end:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code
+
+## Prerequisites
+- Python (version X.X or higher)
+- Git
+- A web browser
 
 ## Installation & How to Run
 Follow these steps to set up and run the project locally:
@@ -77,6 +94,10 @@ Contributions are welcome! If you’d like to improve this project, please follo
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+- Thanks to CS50 for the foundational knowledge and inspiration.
+- Special thanks to the contributors of Flask, Python, and other open-source projects.
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
