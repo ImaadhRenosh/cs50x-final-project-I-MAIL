@@ -1,4 +1,3 @@
-<img width="332" alt="Screenshot 2025-03-13 at 05 47 53" src="https://github.com/user-attachments/assets/6f67bb4d-8e26-4648-837b-b4a921433b33" /># cs50x-final-project
 A comprehensive full-stack application integrating core CS concepts to deliver a scalable solution
 
 
