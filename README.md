@@ -45,7 +45,10 @@ Follow these steps to set up and run the project locally:
     python app.py
     ```
 
-4. **Access the Project**: Open your browser and navigate to `http://localhost:5000` to view the application.
+4. **Access the Project**: change into project directory and run flask:
+    ```sh
+    flask run
+    ```
 
 ## Screenshots / Demo
 - **Screenshot 1**: 
