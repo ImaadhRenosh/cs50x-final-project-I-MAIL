@@ -45,7 +45,8 @@ Follow these steps to set up and run the project locally:
     python app.py
     ```
 
-4. **Access the Project**: change into project directory and run flask:
+4. **Access the Project**: change into the project directory and run flask,
+    then click on the link provided to open I-MAIL in a web browser of your choice:
     ```sh
     flask run
     ```
